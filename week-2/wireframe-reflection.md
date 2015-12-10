@@ -1,5 +1,5 @@
 ![click here](/week-2/imgs/wireframe-index.png)
-![click here](/week-2/imgs/wireframe-blog.index.png)
+![click here](/week-2/imgs/wireframe-blog-index.png)
 
 What is a wireframe?
 - A wireframe is essentially a layout of what a website will look like. 
