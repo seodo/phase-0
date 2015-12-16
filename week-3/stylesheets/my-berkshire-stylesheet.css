@@ -1,0 +1,118 @@
+* {
+  color:#000080;
+  background-color:#ffffff;
+}
+
+a {
+  color:#800080;
+}
+
+a:visited {
+  color:#ff0000;
+}
+
+Header {
+   font-weight:bold;
+   text-align:center;
+   border-bottom: 1px solid black;
+   padding-bottom: 10px;
+}
+
+#one {
+  font-size:1.2em;
+  }
+#B {
+  font-size:1.2em;
+  }
+#H {
+  font-size:1.2em;
+  }
+#Inc {
+  font-size:.75em;
+  }
+#two-three {
+  font-size: .75em;
+}
+#four {
+  font-size: 1em;
+}
+
+}
+
+main {
+  display:inline-block;
+
+}
+#wrap {
+  width:750px;
+  margin:0px  auto;
+margin-bottom: 5px;
+line-height: 250%;
+
+
+}
+main ul div span {
+  font-size:0.6em;
+}
+#left {
+  float:left;
+  width:45%;
+}
+
+
+#right {
+  float:right;
+  width:45%;
+  margin-right: 20px;
+  margin-left: 5%;
+}
+
+
+#advert {
+text-align: center;
+clear:both;
+line-height:50%;
+border-top: 1px solid black;
+border-bottom: 1px solid black;
+text-transform: uppercase;
+font-size: .6em;
+padding-top: 10px;
+padding-bottom: 10px;
+pad
+}
+
+
+footer {
+   clear:both;
+   text-align:left;
+font-size: .75em;
+
+}
+
+
+#legal {
+   display:inline-block;
+   text-align:left;
+}
+#copyright {
+   display:inline-block;
+   text-align:left;
+   font-size:.6em
+}
+#copyright p span {
+  font-weight:bold;
+  text-align: left;
+}
+/*
+What is important to know when linking an external file (like a stylesheet) to an HTML file?
+- The most important things to remember are to to use a relative link and to make sure the spelling of the link is correct.
+What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+-I did't use tricks per se; I had to go back to Codeacademy or Google stuff to remember how to do certain things.
+What CSS did you use to modify the element style (like size, color, etc.)
+- Mainly classes and IDs.
+Did you modify the HTML to include classes or ids? If so, which did you choose and why?
+-I included classes for the header to modify the alignment and font-style.
+When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+-Our site definitely had cleaner code in terms of following good practices. The actual code base
+included a lot of HTML formatting which my partner and I didn't make use of.
+*/
