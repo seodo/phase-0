@@ -1,5 +1,5 @@
-![click here](/imgs/part 1)
-![click here](/imgs/part 2)
+![click here](week-3/imgs/part 1)
+![click here](imgs/part 2)
 ![click here](/imgs/part 3)
 ![click here](/imgs/part 4)
 ![click here](/imgs/part 5)
