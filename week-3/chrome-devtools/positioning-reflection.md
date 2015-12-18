@@ -1,12 +1,12 @@
-![click here](imgs/part 1)
-![click here](imgs/part 2)
-![click here](imgs/part 3)
-![click here](imgs/part 4)
-![click here](imgs/part 5)
-![click here](imgs/part 6)
-![click here](imgs/part 7)
-![click here](imgs/part 8)
-![click here](imgs/part 9)
+![click here](/imgs/part 1)
+![click here](/imgs/part 2)
+![click here](/imgs/part 3)
+![click here](/imgs/part 4)
+![click here](/imgs/part 5)
+![click here](/imgs/part 6)
+![click here](/imgs/part 7)
+![click here](/imgs/part 8)
+![click here](/imgs/part 9)
 
 How can you use Chrome's DevTools inspector to help you format or position elements?
 -Formatting or positioning elements with Devtools is a matter of playing around with the values of the position, top, left, bottom, and right properties among others.
