@@ -1,0 +1,12 @@
+What does puts do?
+-Puts writes the output and also adds a newline at the end, while print just puts the output.
+What is an integer? What is a float?
+-An integer is a number without a decimal point, like 1, 2, and 100, while a float is a number with decimal points like 1.3 and 100.004.
+What is the difference between float and integer division? How would you explain the difference to someone who doesn't know anything about programming?
+-When your computer computes something like 9/2, it'll round down to the next integer. For example, 9/2 will yield 4 because the computer will round down 4.5 to 4. Chris Pine's book had a good example with movie tickets: if a movie ticket costs $2 and you have $9, how many movie tickets can you buy? Just 4. You can't buy half a movie ticket, so you "round down" to 4 tickets. 
+
+Mini-challenges
+1. Hours in a year
+puts 24 * 365
+2. Minutes in a decade
+puts 60 * 24 * (365 * 10)
