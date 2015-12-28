@@ -24,6 +24,6 @@ What are local variables? Why and when would you use them?
 How was this challenge? Did you get a good review of some of the basics?
 -This challenge got me up to speed with some of the Ruby basics. It was straightforward and informative.
 
-require 'defining-variables'
-require 'simple-string'
-require 'basic-math'
+(defining-variables.rb)
+(simple-string.rb)
+(basic-math.rb)
