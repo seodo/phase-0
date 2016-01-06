@@ -11,7 +11,7 @@
 
 
 
-# 0. Pseudocode
+# 0. Pseudocode  .
 
 # What is the input?
 #Input is array with positive integers, min_size of the array, and the value which we will pad with.
