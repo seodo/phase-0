@@ -30,4 +30,5 @@ What is still confusing to you about Ruby?
 -Not so much confused as I am intimidated by the fact that there are an infinite number of ways to do one thing.
 What are you going to study to get more prepared for Phase 1?
 -I will keep practicing Ruby by doing challenges.
+
 =end
